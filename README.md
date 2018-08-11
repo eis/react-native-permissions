@@ -3,8 +3,8 @@ This is a fork from below.
 Additional merged features:
 
 Bring back openSettings on android (https://github.com/yonahforst/react-native-permissions/pull/258)
-Apple music permissions (https://github.com/yonahforst/react-native-permissions/pull/252)
 
+Only support requesting for media library on ios, as that's the only one I need.
 
 # ☝🏼 React Native Permissions
 
