@@ -1,3 +1,11 @@
+This is a fork from below.
+
+Additional merged features:
+
+Bring back openSettings on android (https://github.com/yonahforst/react-native-permissions/pull/258)
+Apple music permissions (https://github.com/yonahforst/react-native-permissions/pull/252)
+
+
 # ☝🏼 React Native Permissions
 
 [![npm version](https://badge.fury.io/js/react-native-permissions.svg)](https://badge.fury.io/js/react-native-permissions)
